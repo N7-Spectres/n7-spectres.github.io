@@ -5,3 +5,4 @@ These are copied to the public repo `N7-Spectres/n7-spectres.github.io`, which s
 https://n7-spectres.github.io/ and https://n7-spectres.github.io/privacy.html.
 
 Public files only. Never put keys, tokens or client_secret.json here.
+
